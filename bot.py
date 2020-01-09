@@ -3,7 +3,7 @@ __autor__ = "sokk"
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler  
 import logging
 
-#files
+#Tim
 from config import botconfig
 from lib import util, commands 
 #from lib import database 
